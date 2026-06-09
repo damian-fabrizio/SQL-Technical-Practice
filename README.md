@@ -3,14 +3,14 @@ Showcasing problem solving ability in SQL using actual interview problems from m
 
 ## JPMorgan Chase - Card Launch Success
 
-** Key Skills **
+**Key Skills**
 - Common Table Expressions
 - Window Functions
 
-** Goal ** 
+**Goal** 
 - Output the name of the credit card, and how many cards were issued in its launch month
 
-** Solution ** 
+**Solution** 
 ```sql
 -- create CTE to hold rank of cards
 -- window function inside CTE that ranks the cards
