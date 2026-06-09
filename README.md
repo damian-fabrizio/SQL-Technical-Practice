@@ -65,3 +65,7 @@ WHERE transaction_rank = 1
 GROUP BY transaction_date, user_id
 ORDER BY transaction_date ASC;
 ```
+**Output**
+
+<img width="898" height="154" alt="image" src="https://github.com/user-attachments/assets/cfd51fa0-a886-450c-93e5-ac39abf0bc98" />
+
