@@ -30,4 +30,7 @@ SELECT card_name, issued_amount
 FROM card_rank
 WHERE ranked_cards = 1;
 ```
+**Output**
+<img width="900" height="127" alt="image" src="https://github.com/user-attachments/assets/f7547031-e51b-48f5-b8e7-527abbd191d3" />
+
 ---
